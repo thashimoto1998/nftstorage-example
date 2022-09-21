@@ -1,0 +1,14 @@
+{
+  "name": "nftstorage-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/thashimoto1998/nftstorage-example.git",
+  "author": "Taki <hashimoto19980924@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "dotenv": "^16.0.2",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7"
+  }
+}
